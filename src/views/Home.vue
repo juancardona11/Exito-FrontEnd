@@ -155,7 +155,6 @@ export default {
   padding-left: 7%;
   padding-right: 1%;
   padding-bottom: 10px;
-  background-color: #fdf171;
 }
 
 .btn2 {
