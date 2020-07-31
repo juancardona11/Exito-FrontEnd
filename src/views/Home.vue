@@ -1,7 +1,7 @@
 <template>
   <div id="Home">
     <div class="titleZone">
-      <h3 class="title">Cruzr Configuración de Campaña Holi :3</h3>
+      <h3 class="title">Cruzr Configuración de Campaña</h3>
     </div>
     <div class="home">
       <b-form @submit="onClick">
